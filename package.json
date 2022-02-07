@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "g": "^2.0.1",
+    "gulp-cli": "^2.3.0"
+  },
+  "name": "happy-birthday",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "browser-sync": "^2.27.7",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.49.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neildc14/happy-birthday.git"
+  },
+  "author": "neil dela cruz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neildc14/happy-birthday/issues"
+  },
+  "homepage": "https://github.com/neildc14/happy-birthday#readme",
+  "description": ""
+}
